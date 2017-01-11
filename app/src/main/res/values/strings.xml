@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="top_rated">Top Rated Movies</string>
+    <string name="favorites">Favorite Movies</string>
+    <string name="sort_settings">Sort Movies</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_title">Select sorting type</string>
+    <string-array name="sort_types">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+        <item>Favorites</item>
+    </string-array>
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="synopsis">Plot Synopsis</string>
+    <string name="reviews">Reviews</string>
+    <string name="favorite">Favorite</string>
+    <string name="fav_success">Added to favorites successfully!</string>
+    <string name="fav_exists">Already exists in favorites!</string>
+    <string name="action_share">Share Trailer</string>
+    <string name="share_to">Share Trailer To</string>
+</resources>
