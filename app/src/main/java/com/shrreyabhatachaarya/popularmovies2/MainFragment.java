@@ -50,7 +50,7 @@ public class MainFragment extends Fragment implements ConnectivityReceiver.Conne
     Boolean twoPane;
 
     //add your api key here
-    String api_key = "";
+    String api_key = "f20d6b74956af8e8c153eb39ac133525";
 
     String LOG_TAG = "MainFragment";
 
